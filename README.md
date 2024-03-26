@@ -33,8 +33,55 @@
 </div>
 
 ###
+<h3 align="left">🛠️ My Favourite tools</h3>
+
+###
+
+<p align="left">Programming languages</p>
+
+###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="32" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="32" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="32" alt="jquery logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=php" height="32" alt="php logo"  />
+</div>
+
+###
+
+<p align="left">Frameworks and libraries</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="32" alt="laravel logo"  />
+</div>
+
+###
+
+<p align="left">Databases and Cloud Hosting</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="32" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="32" alt="sqlite logo"  />
+</div>
+
+###
+
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -52,8 +99,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+### -->
+
+
 ###
 
-<img src="https://github.com/Jobayer53/Jobayer53/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
-###
+
+
+
+
+
+
+
+
+
+
