@@ -11,6 +11,12 @@
   </a>
 </div>
 
+
+<style>
+.heading-with-border h3 {
+    border-bottom: 1px solid #30363db3;
+}
+</style>
 ###
 
 
