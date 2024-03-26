@@ -35,7 +35,8 @@
 </div>
 
 ###
- <h3 align="left">🛠️ My Favourite tools</h3>
+ ### 🛠️ My Favourite tools
+ ---
 
 ###
 
