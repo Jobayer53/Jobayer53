@@ -54,6 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jobayer53/Jobayer53/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Jobayer53/Jobayer53/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
