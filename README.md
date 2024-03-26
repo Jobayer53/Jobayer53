@@ -39,7 +39,7 @@
 
 <p align="left">Programming languages</p>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="32" alt="html5 logo"  />
@@ -57,7 +57,7 @@
 
 <p align="left">Frameworks and libraries</p>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
@@ -69,7 +69,7 @@
 
 <p align="left">Databases and Cloud Hosting</p>
 
-###
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
