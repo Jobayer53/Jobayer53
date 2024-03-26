@@ -12,7 +12,7 @@
 </div>
 
 ###
-<img align="right" alt="GIF" src="https://github.com/Jobayer53/Jobayer53/blob/main/coding.gif?raw=true" width="408" height="318" />
+
 
 
 
@@ -27,7 +27,7 @@
 <p align="left">As a developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.<br><br>That's why I like to make things that make a difference.</p>
 
 ###
-
+<img align="right" alt="GIF" src="https://github.com/Jobayer53/Jobayer53/blob/main/coding.gif?raw=true" width="408" height="318" />
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jobayer53&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="155" alt="languages graph"  />
 </div>
