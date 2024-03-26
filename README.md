@@ -11,9 +11,11 @@
   </a>
 </div>
 
+###
 
-### <h3 align="left" style="border-bottom: 1px solid #ccc;">Glad to see you here!</h3>
----
+
+<h3 align="left" style="border-bottom: 1px solid ##30363db3;">Glad to see you here!</h3>
+
 
 ###
 
