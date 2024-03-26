@@ -12,15 +12,11 @@
 </div>
 
 
-<style>
-.heading-with-border h3 {
-    border-bottom: 1px solid #30363db3;
-}
-</style>
+
 ###
 
-
-<h3 align="left" style="border-bottom: 1px solid ##30363db3;">Glad to see you here!</h3>
+### Glad to see you here!
+<!-- <h3 align="left" style="border-bottom: 1px solid ##30363db3;">Glad to see you here!</h3> -->
 
 
 ###
