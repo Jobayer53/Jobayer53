@@ -16,11 +16,11 @@
 
 
 
-<h3 align="left">Glad to see you here!</h3>
+## <h3 align="left">Glad to see you here!</h3>
 
 ###
 
-## <p align="left">I am a full-stack web developer. I love programming, reading, and exploring.</p>
+ <p align="left">I am a full-stack web developer. I love programming, reading, and exploring.</p>
 
 ###
 
