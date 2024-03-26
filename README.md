@@ -55,11 +55,11 @@
 
 ###
 
-<p align="left">Frameworks and libraries</p>
+<p align="left" style="margin-bottom: 0;">Frameworks and libraries</p>
 
 
 
-<div align="left">
+<div align="left"style="margin-top: 0;" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="32" alt="laravel logo"  />
